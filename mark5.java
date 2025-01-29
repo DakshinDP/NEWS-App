@@ -15,7 +15,7 @@ import java.util.HashMap;
 import java.util.concurrent.ExecutionException;
 
 public class mark5 {
-    private static final String apikey = "8071b0ae06f74759b22091f1790c3f8c";
+    private static final String apikey = "YOUR_API_KEY";
     private static final String baseurl = "https://newsapi.org/v2/";
     private static final String[] categories = { "Business", "Entertainment", "General", "Health", "Science", "Sports",
             "Technology" };
